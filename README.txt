@@ -1,7 +1,7 @@
 Hello reviewer,
 
 This is the Udagram project of the Udacity Nanodegree Program "Cloud Dev Ops Engineer".
-Please check "udagram-architecture-reference.jpeg" to check the implemented architecture.
+Please check "udagram-architecture-reference.jpeg" to see the implemented architecture.
 
 To create the environment, please follow these steps:
 
