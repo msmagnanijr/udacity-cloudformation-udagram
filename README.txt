@@ -13,7 +13,7 @@ To create the environment, please follow these steps:
 
 $ ./create-application-stack.sh
 
-Please, check the URL of the application, please check the "udagram-application" stack output.
+Please, check the URL of the application on the "udagram-application" stack output.
 
 To Update the stacks, please run:
 
