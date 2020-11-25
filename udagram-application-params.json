@@ -1,0 +1,14 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdagramProject"
+    },
+    {
+    "ParameterKey": "AutoScalingGroupMinSize",
+    "ParameterValue": "3"
+    },
+    {
+    "ParameterKey": "AutoScalingGroupMaxSize",
+    "ParameterValue": "5"
+    }
+]
